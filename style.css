@@ -101,6 +101,8 @@ section {
     display: flex;
     align-items: center;
     justify-content: flex-start;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 .main-content h4 {
